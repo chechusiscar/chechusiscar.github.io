@@ -832,7 +832,7 @@ html a.social-link:hover:before {
 
 /* HIGHLIGHT TEXT */
 .highlight {
-	display: inline-block; padding: 0 10px; color: #fff; background: #111;
+	display: inline-block; padding: 0; color: #fff; background: #111;
 	}
 /* light highlights */
 .highlight.light {
